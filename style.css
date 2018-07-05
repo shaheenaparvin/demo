@@ -5,8 +5,16 @@
 
 }
 
-.parent>div{
-padding:2%
-border:1px solid #ddd;
- 
-}
+
+.childOne{
+  width: 30%;
+  padding : 2%;
+  border: 1px solid #ddd;
+   margin:5%;
+  }
+  .childTwo{
+    width:70%;
+    padding : 2%;
+    border: 1px solid #ddd;
+     margin:5%;
+    }
