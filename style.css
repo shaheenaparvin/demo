@@ -7,22 +7,23 @@
 
 
 .childOne{
-  width: 30%;
-  padding : 2%;
-  border: 1px solid #ddd;
-   margin:5%;
+  width: 25%;
+  padding :2%;
+  border: 2px solid #ddd;
+  margin:5%;
+  box-shadow:6px 6px 6px #ddd;
+  box-radius:20px;
   }
   .childTwo{
-    width:70%;
+    width:20%;
     padding : 2%;
     border: 1px solid #ddd;
      margin:5%;
     }
-#img{
-  width:40%;
-  height:40%;
+img{
+  width:20%;
+  height:20%;
   display:block;
   margin-left:auto;
   margin-right:auto;
-
 }
