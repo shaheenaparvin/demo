@@ -1,0 +1,12 @@
+.parent{
+  display: flex;
+  flex-direction:row;
+ justify-content: flex-start;
+
+}
+
+.parent>div{
+padding:2%
+border:1px solid #ddd;
+ 
+}
