@@ -7,6 +7,9 @@
 "career":{
        "info": "To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
 },
+
+
+
 "education":[
 {
 "degree":"b-tech(Computer science engineering)",
@@ -23,6 +26,25 @@
   "institute":"nirmala high schoool",
   "data":["2014","98"]
 }
-]
+],
 
+"skills":[
+{
+  "title":"languages",
+  "content":["c","Python","java","c#","c++","PHP","R"]
+},
+{
+  "title":"databases",
+  "content":["SQL","MongoDB","MySQL"]
+},
+{
+  "title":"web technologies",
+  "content":["html","css","js","php"]
+},
+{
+  "title":"frameworks",
+  "content":["Django","CodeIgniter"]
+}
+
+  ]
 }
