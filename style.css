@@ -1,24 +1,24 @@
 .parent{
   display:flex;
   flex-direction:row;
- justify-content: flex-start;
+  justify-content: flex-start;
 }
 .childOne{
-  width:25%;
+  width:20%;
   padding:3%;
   border:2px solid #66CCFF;
   margin:5%;
   box-shadow:3px 3px 3px #66CCFF;
-  border-radius: 4px;
+  border-radius:4px;
   text-align:center;
  background-color:#66CCFF;
  box-decoration-break:slice;
   }
   .childTwo{
-    width:40%;
+    width:30%;
     padding:2%;
-    border:1px solid #ddd;
-    margin:5%;
+    border:2px solid #ddd;
+    margin:3%;
     text-align:center;
 
     }
@@ -29,6 +29,17 @@ img{
   margin-left:auto;
   margin-right:auto;
 }
+.childThree{
+  width:40%;
+  padding:10%;
+  border:1px solid #66CCFF;
+  margin:4%;
+  box-shadow:3px 3px 3px #66CCFF;
+  border-radius:2px;
+  text-align:center;
+  background-color:#66CCFF;
+  box-decoration-break:slice;
+  }
 
 
 
@@ -66,6 +77,18 @@ img{
     margin-left:auto;
     margin-right:auto;
   }
+  .childThree{
+    width:40%;
+    padding:10%;
+    border:1px solid #66CCFF;
+    margin:4%;
+    box-shadow:3px 3px 3px #66CCFF;
+    border-radius:2px;
+    text-align:center;
+    background-color:#66CCFF;
+    box-decoration-break:slice;
+    }
+
 }
 /*this is for tab*/
 @media only screen and (min-width:481px) and (max-width:769px){
@@ -100,6 +123,18 @@ img{
     margin-left:auto;
     margin-right:auto;
   }
+  .childThree{
+    width:40%;
+    padding:10%;
+    border:1px solid #66CCFF;
+    margin:4%;
+    box-shadow:3px 3px 3px #66CCFF;
+    border-radius:2px;
+    text-align:center;
+    background-color:#66CCFF;
+    box-decoration-break:slice;
+    }
+
 }
 /*this is for desktop*/
 @media only screen and (min-width:770px) and (max-width:1024px){
@@ -135,4 +170,5 @@ img{
     margin-left:auto;
     margin-right:auto;
   }
+
 }

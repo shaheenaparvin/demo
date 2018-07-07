@@ -3,6 +3,26 @@
   "name":"SHAHEENA PARVIN",
   "label":"student",
   "email":"shaheenaparvin@gmail.com"
+},
+"career":{
+       "info": "To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+{
+"degree":"b-tech(Computer science engineering)",
+  "institute":"PvP Siddhartha",
+  "data":["2016-20","92"]
+},
+{
+"degree":"INTERMEDIATE(m.p.c)",
+  "institute":"narayana intermediate college",
+  "data":["2014-16","95"]
+},
+{
+"degree":"ssc",
+  "institute":"nirmala high schoool",
+  "data":["2014","98"]
 }
+]
 
 }
